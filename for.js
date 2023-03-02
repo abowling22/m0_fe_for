@@ -28,6 +28,13 @@ for (var i = 0; i < words.length; i++) {
 }
   }
 
+// var i = 0; is telling the for loop to start at the 0 index for the array)
+// i < words.length; is saying run the for statement as long as i is less than the number of strings in the array
+// i++ is telling the for loop to go up by incriments of 1
+
+// if (words [i].length === 3) is saying if the strings in the array words carried through the for statement is equal to 3
+// console.log("these are the words with 3 characters " + words[i] is saying then log the text + words found in the for statement that satisify the above conditions
+
 // // 📹 Record yourself live-coding and talking through any ONE of the challenges. 
 //   // The recording doesn't have to be the first time you are solving the problem. 
 //   // Use technical vocabulary and explain each part to demonstrate your understanding! 
